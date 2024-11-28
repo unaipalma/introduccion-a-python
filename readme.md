@@ -2,7 +2,7 @@
 
 Este es un índice de los archivos disponibles en este repositorio. Haz clic en un título para acceder al archivo correspondiente.
 
-- [Formateación y sintaxis](./01.%20Formateacion%20y%20sintaxis.md)
+- [Formatación y sintaxis](./01.%20Formatacion%20y%20sintaxis.md)
 - [Tipos de datos](./02.%20Tipos%20de%20datos.md)
 - [Variables](./03.%20Variables.md)
 - [Operadores](./04.%20Operadores.md)
